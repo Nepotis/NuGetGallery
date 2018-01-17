@@ -400,7 +400,7 @@
     <Compile Include="Authentication\AuthenticatorFacts.cs" />
     <Compile Include="Authentication\Providers\ApiKey\ApiKeyAuthenticationHandlerFacts.cs" />
     <Compile Include="Authentication\AuthenticationServiceFacts.cs" />
-    <Compile Include="Authentication\ScopeSubjectConverterFacts.cs" />
+    <Compile Include="Authentication\ScopeSubjectTypeConverterFacts.cs" />
     <Compile Include="Authentication\TestCredentialHelper.cs" />
     <Compile Include="Controllers\SupportControllerFacts.cs" />
     <Compile Include="Extensions\RouteExtensionsFacts.cs" />
